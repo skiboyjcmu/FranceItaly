@@ -3,7 +3,7 @@ title = "Tuscany"
 date = 2023-03-14T14:25:59-07:00
 weight = 15
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b> </b>"
 +++
 
 ### Tuscany Info
