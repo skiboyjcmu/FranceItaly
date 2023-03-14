@@ -11,9 +11,9 @@ pre = "<b></b>"
 # Here's a bunch of info and links for use in Verona & Venice Italy
 
 #### Tourist Stuff
-- <a href="https://www.visitmuranoglassfactory.com/"> Murano (blown glass)  </a>
-- <a href="https://www.isoladiburano.it/en/lace.html"> Burano (lace) </a>
-- <a href="https://www.bonialessandro.it/it"> Winery </a> 
+- [Murano (blown glass)](https://www.visitmuranoglassfactory.com/)
+- [Burano (lace)](https://www.isoladiburano.it/en/lace.html)
+- [Winery](https://www.bonialessandro.it/it)  
 - Balsamic Vniegar:  Azienda AgricoloBoni 
 
 #### Resturants
