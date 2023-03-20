@@ -8,8 +8,6 @@ pre = "<b> </b>"
 
 ### [Chamonix Info](https://en.chamonix.com/) 
 
-# Here's a bunch of info and links for use in Chamonix, France
-
 [General Chamonix Info](https://en.chamonix.com/)
 
 
