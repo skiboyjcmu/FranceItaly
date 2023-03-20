@@ -6,20 +6,13 @@ chapter = true
 pre = "<b> </b>"
 +++
 
-### France & Italy
+# France & Italy
+You can find trip info for each location below (or on Left Nav Bar)
 
-# This site is used to collect, organize, and utilize information during a trip to Italy & France
+### [Chamonix](./chamonix.html)
 
-#### Tourist Stuff
-- 1
-- 2
-- 
+### [Venice & Verona](./veronavenice.html)
 
-#### Resturants
-- 1
-- 2
-- 
-#### Travel
-- 1
-- 2
-- 
+### [Tuscany](./tuscany.html)
+
+### [Rome](./rome.html)
