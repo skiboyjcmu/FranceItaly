@@ -16,7 +16,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
   # Author of the site, will be used in meta information
-  author = "Jeff Kopko jkopko@gmail.com"
+  author = "Jeff Kopko https://github.com/skiboyjcmu"
   # Description of the site, will be used in meta information
   description = "Info for a Trip to Chamonix, Fr, and Italy"
   # Shows a checkmark for visited pages on the menu

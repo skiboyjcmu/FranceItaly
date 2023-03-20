@@ -11,8 +11,11 @@ pre = "<b></b>"
 # Here's a bunch of info and links for use in Rome Italy
 
 #### Tourist Stuff
+- Vatican - get a tour guide
+- Trevi Foundtain at night
 
 #### Resturants
 - [L'Archeologia](http://www.larcheologia.it/en/)
+
 
 #### Travel
