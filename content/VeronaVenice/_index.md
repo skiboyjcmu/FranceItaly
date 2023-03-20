@@ -14,7 +14,7 @@ pre = "<b></b>"
 - [Murano (blown glass)](https://www.visitmuranoglassfactory.com/)
 - [Burano (lace)](https://www.isoladiburano.it/en/lace.html)
 - [Winery](https://www.bonialessandro.it/it)  
-- Balsamic Vniegar:  Azienda AgricoloBoni 
+- Balsamic Vinegar:  Azienda AgricoloBoni 
 
 #### Resturants
 
