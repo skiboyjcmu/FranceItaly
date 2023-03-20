@@ -8,7 +8,7 @@ uglyurls = "true"
 enableEmoji = true
 
 # Change the default theme to be use when building the site with Hugo
-theme = "hugo-theme-learn"
+theme = "hugo-theme-relearn"
 
 # For search functionality
 [outputs]
@@ -30,5 +30,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Javascript and CSS cache are automatically busted when new version of site is generated.
   # Set this to true to disable this behavior (some proxies don't handle well this optimization)
   disableAssetsBusting = false
+
+ [Langauges]
   landingPageURL = "https://skiboyjcmu.github.io/FranceItaly"
   landingPageName = "<i class='fas fa-home'></i> Home"

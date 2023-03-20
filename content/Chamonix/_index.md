@@ -40,7 +40,7 @@ pre = "<b> </b>"
   - In town bus: https://www.montblancbus.transdev.com/reseau/chamonix-bus/
   - Train from Cham Sud, Cham Centre, Grand Montets, etc. - 2 EUR each, can pay on the train 
   - From Geneva - Mountain Drop Offs had best rates for shared and private shuttle from GVA/Cham - door to door service
-  - 
+
 #### Resturants
   - Most restaurants do two seatings per night, one at 7pm and one at 9:30pm. Kind of a pain. We found it very hard to walk in anywhere. 
   - There are a few supermarkets - they all seemed ok, we went to prob the most expensive “casino” on the rue du Dr. Paccard
@@ -64,11 +64,10 @@ pre = "<b> </b>"
     - Granges d’en Haut (La Table des Granges) - dinner or lunch, res needed in Les Houches. Looks nice but would be a drive away
     - The Wine Factory - apres? in Les Houches
     - Le Bivouac - traditional french, old school climbers spot
-  - 
 
 
 #### ETC
-  - The farmers market on Saturday am at the north side of town was very nice!
+  - The [farmers market on Saturday am](https://www.seechamonix.com/events/saturday-market-main-town-689085) at the north side of town was very nice!
   - The Rue du Dr. Paccard is a pedestrian street that runs north/south, lots of shops and restaurants all along it and its a nice stroll
   - There is a great mid-mtn restaurant under the triple at Flegere - check it out!!
   - The glacier exhibit/tunnel at the bottom of the Vallee Blanche was very cool, worth taking a few mins to check it out (not sure it’s worth taking the train/gondola straight there but ppl did. It’s about 500 steps down from the gondola to the foot of the glacier)
