@@ -12,12 +12,15 @@ pre = "<b> </b>"
 
 #### Tourist Stuff
 - great street market near our hotel where we bought cashmere scarves and leather products. 
-- Il Duomo at night
+- Il Duomo at night (the Dome)
 - Sam Gimignano
+- Pisa (the Tower that leans)
+- David
+- Medici Museum - [get reservations]("http://www.museodemedici.com/") 
 - Wineries - get a private tour w meal
   - [Carlesi Zucconi Fattoria Il Piano](https://www.fattoriailpiano.it/")
   - [Casa Sol](https://www.casasolzipolite.com/)
 #### Resturants
 - [Giannino en San Lorenzo](https://www.gianninoinflorence.com/)
-
+- Flourintine Steak House
 #### Travel
