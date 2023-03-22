@@ -1,6 +1,6 @@
 baseURL = 'https://skiboyjcmu.github.io/FranceItaly'
 languageCode = 'en-us'
-title = 'Chamonix & Italy 2023'
+title = 'Travel and general HopKo Info'
 
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= "false"
