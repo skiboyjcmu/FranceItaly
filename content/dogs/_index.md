@@ -80,5 +80,3 @@ weight = 30
       - https://northbendanimalclinic.com/
       - Blue Pearl 1: 805 Madison St #100, Seattle, WA 98104 +1206-624-9111 
       - Blue Pearl 2: 4208 Lind Ave SW, Renton, WA 98057, +1425-496-1000
-      - 
-      - 
