@@ -9,10 +9,12 @@ pre = "<b> </b>"
 # France & Italy
 You can find trip info for each location below (or on Left Nav Bar)
 
-### [Chamonix](./chamonix.html)
+### [Chamonix](./travel/cham.html)
 
-### [Venice & Verona](./veronavenice.html)
+### [Venice & Verona](./travel/venice.html)
 
-### [Tuscany](./tuscany.html)
+### [Tuscany](./travel/tuscany.html)
 
-### [Rome](./rome.html)
+### [Rome](./travel/rome.html)
+
+### [Dogs](./dogs.html)

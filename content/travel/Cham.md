@@ -2,8 +2,6 @@
 title = "Chamonix"
 date = 2023-03-14T14:23:50-07:00
 weight = 5
-chapter = true
-pre = "<b> </b>"
 +++
 
 ### [Chamonix Info](https://en.chamonix.com/) 
@@ -49,7 +47,7 @@ pre = "<b> </b>"
     - Le Cap Horn 7pm + Les Caves for live music/party! (Very fun!)
     - Annapurna (on the main street) - very good indian and good service 
     - Hydromel - SKIP 
-    - Le pain de tradition - on the Avenue Aiguille Midi - stop for coffee/croissant before the midi, or grab sandwiches (delicious but sometimes limited selection depending on what time in the morning)
+    - [Le pain de tradition](https://www.myboulange.fr/74/chamonix-mont-blanc/pain-de-tradition-patisserie-sandwichs-29284) - on the Avenue Aiguille Midi - stop for coffee/croissant before the midi, or grab sandwiches (delicious but sometimes limited selection depending on what time in the morning)
   - On the List:
     - Canailles - dinner. Res for 6 max online, closed Monday and Sunday. 
     - Le Comptoir du vin sur vin (apres)
@@ -65,8 +63,9 @@ pre = "<b> </b>"
 
 
 #### ETC
+  - [Private Chef & Grocery Delivery](https://www.privatecateringchamonix.com)
   - The [farmers market on Saturday am](https://www.seechamonix.com/events/saturday-market-main-town-689085) at the north side of town was very nice!
   - The Rue du Dr. Paccard is a pedestrian street that runs north/south, lots of shops and restaurants all along it and its a nice stroll
   - There is a great mid-mtn restaurant under the triple at Flegere - check it out!!
   - The glacier exhibit/tunnel at the bottom of the Vallee Blanche was very cool, worth taking a few mins to check it out (not sure it’s worth taking the train/gondola straight there but ppl did. It’s about 500 steps down from the gondola to the foot of the glacier)
-  - Geneva/Paris airport is a disaster with the strikes. HIGHLY RECOMMEND AIR TAGS FOR LUGGAGE!! My ski bag was 36h late. There is a good shop right next to the Midi with a decent demo fleet if you’re in need :)
+  - Geneva/Paris airport is a disaster with the strikes. HIGHLY RECOMMEND AIR TAGS FOR LUGGAGE!! There is a good shop right next to the Midi with a decent demo fleet if you’re in need :)

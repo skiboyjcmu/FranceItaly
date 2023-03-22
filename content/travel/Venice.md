@@ -2,8 +2,6 @@
 title = "Verona & Venice"
 date = 2023-03-14T14:25:40-07:00
 weight = 10
-chapter = true
-pre = "<b></b>"
 +++
 
 ### Verona & Venice Info

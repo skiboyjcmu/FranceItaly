@@ -2,8 +2,6 @@
 title = "Rome"
 date = 2023-03-14T14:26:11-07:00
 weight = 20
-chapter = true
-pre = "<b></b>"
 +++
 
 ### Rome Info
