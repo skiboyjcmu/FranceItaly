@@ -34,6 +34,8 @@ weight = 30
   - We have security cameras outside in front and back of house 
   - Feel free to take the dogs any/everywhere.  There’s a seat cover in garage if you need it. They do fine in the trunk if you have a hatchback, or use the seat cover for back seat.
   - If you leave the dogs at home (totally fine for up to 10 hours), 
+  - Roomba vacuums
+    - 
 
   ### Daily Schedule-
   - Sometime between 7-9am - walk both dogs or let let them outside in back yard to do business 
