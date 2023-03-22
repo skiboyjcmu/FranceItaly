@@ -6,12 +6,15 @@ weight = 20
 
 ### Rome Info
 
-# Here's a bunch of info and links for use in Rome Italy
 
 #### Tourist Stuff
 - Vatican - get a tour guide
+  - https://m.museivaticani.va/content/museivaticani-mobile/en/organizza-visita/tariffe-e-biglietti.html
+- [Colloseum Tours](https://colosseum.tours/)
 - Trevi Foundtain at night
-
+- Bikes:
+  - https://www.ecobikeroma.it/en/rental/
+- [Soccer Match](https://www.sportesalute.eu/stadioolimpicotour.html)
 #### Resturants
 - [L'Archeologia](http://www.larcheologia.it/en/)
 

@@ -7,9 +7,9 @@ Chapter = true
 
 You can find trip info for each location below (or on Left Nav Bar)
 
-### [Chamonix](./travel/chamonix.html)
+### [Chamonix](./travel/cham.html)
 
-### [Venice & Verona](./travel/veronavenice.html)
+### [Venice & Verona](./travel/venice.html)
 
 ### [Tuscany](./travel/tuscany.html)
 

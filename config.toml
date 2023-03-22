@@ -31,6 +31,6 @@ home = [ "HTML", "RSS", "JSON"]
   # Set this to true to disable this behavior (some proxies don't handle well this optimization)
   disableAssetsBusting = false
 
- [Langauges]
+[Langauges]
   landingPageURL = "https://skiboyjcmu.github.io/FranceItaly"
   landingPageName = "<i class='fas fa-home'></i> Home"
