@@ -1,11 +1,10 @@
 ---
-title: "Cham & ItalyPackingList"
+title: "Cham Italy Packing List"
 date: 2023-03-22T14:21:28-07:00
-weight = 25
+weight: 25
 ---
 
-### Google Bard AI generated packing list (human augmentation in **bold**)
-
+### Google Bard AI generated packing list (human augmentation in bold)
 
 
 Sure, here is a packing list for your trip to Chamonix and Italy:
@@ -37,7 +36,7 @@ Sure, here is a packing list for your trip to Chamonix and Italy:
     * **Boot Crampons**
     * **Ski Crampons**
     * **Skins**
-    * **gogglesa
+    * **goggles**
     * **radios**
     * **avy gear**
 
