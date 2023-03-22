@@ -11,7 +11,7 @@ weight = 30
 - Walking - try to make them sit before opening door and going outside. This helps him to calm down ahead of the walk. When they’re sitting and  paying attn “all right come” and then lead them outside (hopefully without jumping)
   - Don’t let king pull you around. Firm tug, or “Heel” or “tsssst” noise to get him to stop pulling. (This hasn't really been a problem lately)
   
-- CBD - If King or Nova is going nuts and/or you’re going to be away for awhile, feel free to give him 1 CBD treat from same drawer next to front door
+- CBD - If King or Nova is going nuts, feel free to give him 1 CBD treat from same drawer next to front door
 - Gates - If you’re going to leave them at home (totally fine) keep them on the lower level with doors closed to upstairs
   - There is a gate on the back deck if it's nice out but you don't want them getting too dirty/digging
   - Back yard is fine to go poo.  Try to pickup poos every couple days so it's not all over backyard (don't have to be militant about it)
@@ -35,7 +35,15 @@ weight = 30
   - Feel free to take the dogs any/everywhere.  There’s a seat cover in garage if you need it. They do fine in the trunk if you have a hatchback, or use the seat cover for back seat.
   - If you leave the dogs at home (totally fine for up to 10 hours), 
   - Roomba vacuums
-    - 
+    - they run generally during the day.  If you don't see them in their cradle in the evening/morning, go find them and put them back (they probably got stuck)
+  - Espressor machine
+    - water in top left
+    - whole bean coffee in top right
+    - espresso shot/+ water on left buttons
+    - latte/cappuccino on right buttons
+      - must have milk carafe installed, and put it back in fridge when done
+    - Empty water and grounds when machine indicated necessary
+  - Regular coffee maker and grinder in pantry 
 
   ### Daily Schedule-
   - Sometime between 7-9am - walk both dogs or let let them outside in back yard to do business 
