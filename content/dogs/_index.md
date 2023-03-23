@@ -20,6 +20,8 @@ weight = 30
 - Sleeping - sheets are clean on both beds. Nova usually gets up first for a goodnight snuggle and then gets off.  King is a lump and may try to sleep all over you
 - They both kinda like having water bowl full on bathroom floor overnight (otherwise you may wake up to them dragging it across the floor to fill it)
 - Food - same for both of them. 1 not-all-the-way-full scoop each 2x a day.
+  - add 1 capsule of probiotic to each dogs food in the morning.  best to seperate the capsule and sprinkle the power on food
+  - King has a purple/green wobble we give him dinner in a few times a week.  Unscrew the yellow cap and put food into there (it takes awhile b/c the hole is small)
 - Bathroom - if either of them are scratching at any door, they probably have to go out (within reason...just make sure they aren’t playing you!! )
  
 ### House -
@@ -47,6 +49,8 @@ weight = 30
 
   ### Daily Schedule-
   - Sometime between 7-9am - walk both dogs or let let them outside in back yard to do business 
+  - Towels to dry/wipe off feet at the upstairs slider window and in the laundry room
+    - More towels in bedroom level hall closet if they get soaked
   - Breakfast/while you’re eating/making coffee/etc - 
   - Nova is a finicky eater so she might not finish her food.  King will devour his
   - ~3-5PM Afternoon walk/let out in back yard
@@ -55,7 +59,9 @@ weight = 30
     - in the river.  
       - Directly behind out house is pretty shallow
       - 500 yards to the right, down pathway, there is a deeper pool where the river bends.  Paths upstream at start of this area, and downstream at the end, and either is fine to go into
-      - There is an off leash dog park https://www.snoqualmiewa.gov/Facilities/Facility/Details/Three-Forks-OffLeash-Dog-Park-66 abouut 10 min away by car.  
+      - There is an off leash dog park https://www.snoqualmiewa.gov/Facilities/Facility/Details/Three-Forks-OffLeash-Dog-Park-66 abouut 10 min away by car.
+    - Generally, they will be less of a handful at night/while you're at the house if they've had walks/playtime/rivertime/etc during the day.
+      - 
       
   ### Misc
   - They’re both super friendly towards people and other dogs. 

@@ -17,6 +17,8 @@ Sure, here is a packing list for your trip to Chamonix and Italy:
     * Sunscreen, sunglasses, and a hat
     * Sportswear
     * Casual clothing for evening activities
+    * **sun shirts with hoods**
+    * **touring pants and jacket**
 * Footwear:
     * Ski boots and bindings
     * Hiking boots
@@ -46,6 +48,7 @@ Sure, here is a packing list for your trip to Chamonix and Italy:
     * Casual clothing for warm weather
     * Sunscreen, sunglasses, and a hat
     * Dressy clothing for evening activities
+
 * Footwear:
     * Comfortable shoes for walking
     * Sandals or flip-flops for the beach
@@ -61,11 +64,11 @@ Sure, here is a packing list for your trip to Chamonix and Italy:
     * First-aid kit
     * Snacks
     * Water bottle
-
+    * 
 #### Baby (this is human generated)
 
 * Travel Stroller
-* Enough Diapers and formula for 48 hrs
+* Enough Diapers and formula for 72 hrs
 * PJ
 * day wear outfits
 * socks
@@ -90,6 +93,8 @@ Sure, here is a packing list for your trip to Chamonix and Italy:
 * pump
 * feeding set
 * Wifi Monitor?
+* Benedryl
+* EpiPen
 
 #### Work (human gen)
 
@@ -97,5 +102,22 @@ Sure, here is a packing list for your trip to Chamonix and Italy:
 * Chargers
 * Extra Phone
 * Mobile Batters
+
+
+#### Travel (human gen)
+* headphones
+* sleepmask
+* neck roll
+* passports/cc
+* BT adaptors for plane
+* airtags in luggage
+* Dopp Kit
+  * deodorant
+  * toothbrush and paste
+  * sunblock
+  * allergy meds & spray
+  * coldeze
+  * tylenol & Advil
+  * vitamins
 
 Please note that this is just a sample packing list, and you may need to adjust it depending on your specific needs and activities.
