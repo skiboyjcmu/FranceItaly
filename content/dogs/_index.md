@@ -5,6 +5,9 @@ Chapter = true
 weight = 30
 +++
 
+#### LATELY, they've been stealing food from counters.  Do not leave any food unattended on the counter/table for even a few mins.  Put your dinner in the microwave if you need to step away for a few mins.
+  
+
 - Daycare: 
   - Seattle/SoDo: https://seattledogresort.com/reservation/ We have a pre-paid block of days, so just call ahead and make sure they have space
   - North Bend: https://outonaleash.com/home.  This is where they go on a regular basis.  Call ahead and make sure they have space, and they only take Cash. 
