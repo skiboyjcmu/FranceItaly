@@ -24,7 +24,11 @@ weight = 15
   - https://mamalovesitaly.com/hot-springs-in-tuscany/
   - https://www.discovertuscany.com/itineraries-in-tuscany/thermal-itineraries-tuscany.html
   - Possibly closest to villa: https://www.termedigambassi.com/
-  - 
+- Balsamic Vinegar - all of it is made in Modena
+   - Fantastic Tour + Tasting https://ita.acetobalsamicodelduca.com/en/guided-tours/
+   - Unbelievable outdoor Lunch nearby at: https://www.facebook.com/OsteriaAnticaAnnaeMarco
+   - 
+    - 
 #### Resturants
 - [Giannino en San Lorenzo](https://www.gianninoinflorence.com/)
 - Flourintine Steak House

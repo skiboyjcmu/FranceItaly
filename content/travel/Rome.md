@@ -11,6 +11,7 @@ weight = 20
 - Vatican - get a tour guide
   - https://m.museivaticani.va/content/museivaticani-mobile/en/organizza-visita/tariffe-e-biglietti.html
 - [Colloseum Tours](https://colosseum.tours/)
+  - pay to skip the line!
 - Trevi Foundtain at night
 - Bikes:
   - https://www.ecobikeroma.it/en/rental/
@@ -18,6 +19,7 @@ weight = 20
 #### Resturants
 - [L'Archeologia](http://www.larcheologia.it/en/)
 - https://www.ambasciatadiabruzzo.com/en/
+- 
 
 
 #### Travel

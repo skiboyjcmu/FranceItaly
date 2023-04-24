@@ -11,6 +11,7 @@ weight = 10
 - [Burano (lace)](https://www.isoladiburano.it/en/lace.html)
 - [Winery](https://www.bonialessandro.it/it)  
 - Balsamic Vinegar:  Azienda AgricoloBoni 
+- Resources from AirBnB Host: https://linktr.ee/mtorr?utm_source=qr_code
 
 #### Resturants
 
