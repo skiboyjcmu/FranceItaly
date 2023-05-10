@@ -6,7 +6,10 @@ chapter = true
 pre = "<b> </b>"
 +++
 
-# France & Italy
+## General Travel Abroad
+- use WhatsApp to message and call local businesses
+
+## France & Italy
 You can find trip info for each location below (or on Left Nav Bar)
 
 ### [Chamonix](./travel/cham.html)
@@ -16,5 +19,7 @@ You can find trip info for each location below (or on Left Nav Bar)
 ### [Tuscany](./travel/tuscany.html)
 
 ### [Rome](./travel/rome.html)
+
+### [Japan](./travel/japan.html)
 
 ### [Dogs](./dogs.html)

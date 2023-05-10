@@ -18,6 +18,8 @@ weight = 15
   - [Carlesi Zucconi Fattoria Il Piano](https://www.fattoriailpiano.it/")
   - [Casa Sol](https://www.casasolzipolite.com/)
 - Biking in Tuscany:
+  - This is the one we used: https://www.bikingtuscanytour.com/
+  - 
   - https://www.puntobici.lucca.it/price-list.html
   - https://www.touristcenterlucca.com/rent-bike-lucca.php
 - Hot Springs: https://www.google.com/maps/d/u/0/viewer?mid=1dQZbonVIyYG9terc9r25COZAk5A&hl=en_US&ll=43.272630197411964%2C11.231863947598017&z=8
