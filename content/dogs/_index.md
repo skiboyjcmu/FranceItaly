@@ -1,16 +1,14 @@
 +++
-archetype = "chapter"
 title = "Dogs"
-Chapter = true
 weight = 30
 +++
 
 #### LATELY, they've been stealing food from counters.  Do not leave any food unattended on the counter/table for even a few mins.  Put your dinner in the microwave if you need to step away for a few mins.
   
 
-- Daycare: 
+- Daycare - available if absolutely necessary: 
   - Seattle/SoDo: https://seattledogresort.com/reservation/ We have a pre-paid block of days, so just call ahead and make sure they have space
-  - North Bend: https://outonaleash.com/home.  This is where they go on a regular basis.  Call ahead and make sure they have space, and they only take Cash. 
+  - North Bend: https://outonaleash.com/home.  This is where they go on a regular basis.  Call ahead and make sure they have space, they bill us once at the end of the  month. 
 - Walking - try to make them sit before opening door and going outside. This helps him to calm down ahead of the walk. When they’re sitting and  paying attn “all right come” and then lead them outside (hopefully without jumping)
   - Don’t let king pull you around. Firm tug, or “Heel” or “tsssst” noise to get him to stop pulling. (This hasn't really been a problem lately)
   
@@ -41,7 +39,7 @@ weight = 30
   - If you leave the dogs at home (totally fine for up to 10 hours), 
   - Roomba vacuums
     - they run generally during the day.  If you don't see them in their cradle in the evening/morning, go find them and put them back (they probably got stuck)
-  - Espressor machine
+  - Espresso machine
     - water in top left
     - whole bean coffee in top right
     - espresso shot/+ water on left buttons
@@ -81,7 +79,7 @@ weight = 30
   - If there is an accident (you’ll probably notice it much later), don’t worry too much about it.  Soak up as much as possible with paper towels and spray some of the natures miracle on it.  If you remember, come back 15 mins later and try to dry again with paper towels, but it’s not a big deal.  
     - There is a wet vac in the furnace room.  If it's a poo accident, and you get it right away, this is prob the best bet
   - Vet:  Snoqualmie Ridge Veterinary Hospital
-    -  If needed, we'll pay for relatively anything.  We have pet insurance through Figo
+    -  If needed, we'll pay for relatively anything, just check with us if it's something major.  We have pet insurance through Figo
       - Kingsley Policy #: FPI30000042325
       - Nova Policy #: FPI30000042324
     - 35011 SE Ridge St Snoqualmie, WA 98065

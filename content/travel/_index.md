@@ -14,3 +14,5 @@ You can find trip info for each location below (or on Left Nav Bar)
 ### [Tuscany](./travel/tuscany.html)
 
 ### [Rome](./travel/rome.html)
+
+### [Japan](./travel/japan.html)
