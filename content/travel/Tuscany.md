@@ -12,8 +12,8 @@ weight = 15
 - Sam Gimignano
 [- Pisa (the Tower that leans)](https://www.towerofpisa.org/)
 - David (Flourance)
-  - https://www.accademia.org/
-- Medici Museum - [get reservations]("http://www.museodemedici.com/") 
+  - https://www.accademia.org
+- Medici Museum - [get reservations](http://www.museodemedici.com) 
 - Wineries - get a private tour w meal
   - [Carlesi Zucconi Fattoria Il Piano](https://www.fattoriailpiano.it/")
   - [Casa Sol](https://www.casasolzipolite.com/)

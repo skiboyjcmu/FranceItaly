@@ -27,12 +27,12 @@ weight = 30
  
 ### House -
   - We have Amazon Alexa Dots all over the place. They control mostly lights and fans
-  - Feel free to eat or drink anything.
-  - If it’s warm, best to leave a bunch of windows open with shades cracked (to let air flow but not too much sunlight in).  Fans throughout the house as needed, and they can be left on full time so it doesn’t get too hot during the day 
+  - The house gets lots of sun, so best to open windows and shades at night, and shut them during the day.  The front of the house specifically gets FULL Sun.  Fans throughout the house as needed, and they can be left on full time so it doesn’t get too hot during the day 
     - Entry Fan
     - Master Bedroom Fan
     - Living Room Fan
-  - Trash day is Tuesday, so put trash, food waste OR recycling out on Mon  night.  Food waste and recycling alternate weeks
+    - A/C as needed, adjust using nest thermostat
+  - Trash day is Tuesday, so put trash, food waste OR recycling out on Monday night.  Food waste and recycling alternate weeks (there is a schedule above the garbage in pantry)
   - The small metal trash can in front of garage is for dog poo bags during the week, throw that in the main garbage bag on Mon night.  There are a bunch of bags for that metal can just inside garage door
   - We have security cameras outside in front and back of house 
   - Feel free to take the dogs any/everywhere.  There’s a seat cover in garage if you need it. They do fine in the trunk if you have a hatchback, or use the seat cover for back seat.
@@ -49,14 +49,14 @@ weight = 30
   - Regular coffee maker and grinder in pantry 
 
   ### Daily Schedule-
-  - Sometime between 7-9am - walk both dogs or let let them outside in back yard to do business 
+  - Sometime between 7-9am - walk both dogs.  We're trying to grow grass in the backyard, so don't let them out there unsupervised (or they will dig and tear up the new grass)
   - Towels to dry/wipe off feet at the upstairs slider window and in the laundry room
     - More towels in bedroom level hall closet if they get soaked
   - Breakfast/while you’re eating/making coffee/etc - 
-  - Nova is a finicky eater so she might not finish her food.  King will devour his
-  - ~3-5PM Afternoon walk/let out in back yard
-  - Playtime options- as long as it’s not raining, we try have them them outside to play offleash at least 30 mins during the day
-    - Back yard
+    - Nova is a finicky eater so she might not finish her food.  King will devour his
+    - Nova gets a full scoop of food and King gets 3/4 of a scoop.  Both get a Probiotic capsule sprinkeled on their food in the morning
+  - ~3-6PM Afternoon walk
+  - Playtime options- 
     - in the river.  
       - Directly behind out house is pretty shallow
       - 500 yards to the right, down pathway, there is a deeper pool where the river bends.  Paths upstream at start of this area, and downstream at the end, and either is fine to go into
@@ -74,7 +74,6 @@ weight = 30
     - Down (point to and/or touch ground)
     - Hug (stand up, arms at your sides, open palms up) - this is the only time we let them jump up on us. 
   - Leashes loop over their head and buckle under their belly with the leash facing forward.  It helps to keep them from pulling too hard 
-  - Kingsley’s left eye is a bit puffy/droopy/red around the outside edge.  Occasionally you’ll catch the redness and it looks worrisome, but as you keep investigating it’s not that bad.  We asked the vet and they said it’s fine as long as he’s not itching/scratching, and generally he doesn’t notice it. 
   - Try to make sure there’s always water in the bowl, but don’t stress over it.  If they makes a mess with it, so there’s a mop on the wall in panrty if needed
   - If there is an accident (you’ll probably notice it much later), don’t worry too much about it.  Soak up as much as possible with paper towels and spray some of the natures miracle on it.  If you remember, come back 15 mins later and try to dry again with paper towels, but it’s not a big deal.  
     - There is a wet vac in the furnace room.  If it's a poo accident, and you get it right away, this is prob the best bet
