@@ -33,4 +33,4 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Langauges]
   landingPageURL = "https://skiboyjcmu.github.io/FranceItaly"
-  landingPageName = "<i class='fas fa-home'></i> Home"
+  landingPageName = "<i class='fas fa-home'></i> SampleProducts"

@@ -1,5 +1,5 @@
 +++
-title = "Travel Home Page"
+title = "Travel SampleProducts Page"
 date = 2023-03-14T14:47:30-07:00
 weight = 5
 archetype = "home"
